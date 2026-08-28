@@ -1,0 +1,6 @@
+{
+  "name": "Sadra Chain",
+  "description": "Sadra Chain (صدرہ چین) investment and wallet dashboard featuring live balance ticker, 24-hour profit timer, investment plans, referral network, and Easypaisa/JazzCash withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
